@@ -9,7 +9,7 @@ This file is dedicated to average users, if you are familiar with CSS please tak
 ~~~
 /* THIS IS THE EXAMPLE-CSS-FILE FOR LIBERTREE */
 
-/* Hint: If you want to change the colors, you have to edit the hexadecimal numbers */
+/* Hint: If you want to change the colors, you have to edit the hexadecimal numbers #000000 and #ffffff */
 
 /* In this section you can put a picture-link in for the background and you can choose a color if you picture doesn't cover the whole area */
 
