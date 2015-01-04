@@ -17,7 +17,7 @@ body
 {
 padding: 0px;
 margin: 0px;
-background: url("   ") fixed center repeat-x ;
+background: url("www.please-replace-this-link.org/example-picture.png") fixed center repeat-x ;
 width: 100%;
 }
 
