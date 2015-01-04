@@ -9,9 +9,9 @@ This file is dedicated to normal users, if you are familiar with CSS please take
 ~~~
 /* THIS IS THE EXAMPLE-CSS-FILE FOR LIBERTREE */
 
-/* Hint: If you want to change the colors, you have to edit the hexadecimal numbers*/
+/* Hint: If you want to change the colors, you have to edit the hexadecimal numbers */
 
-/* In this section you can put a picture-link in for the background and you can choose a color if you picture doesn't cover the whole area*/
+/* In this section you can put a picture-link in for the background and you can choose a color if you picture doesn't cover the whole area */
 
 body
 {
@@ -21,7 +21,9 @@ background: url("www.please-replace-this-link.org/example-picture.png") fixed ce
 width: 100%;
 }
 
-/* In this section you can change the color of the main menu bar. Please mind that it is not possible to change the color of the icons, so you should choose a color that fits to the icon color.*/
+/* In this section you can change the color of the main menu bar. */
+/* Please mind that it is not possible to change the color of the icons. */
+/* You should choose a color that fits to the icon color. */
 
 .menu { background: ; }
 
