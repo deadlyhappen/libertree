@@ -47,7 +47,6 @@ a:hover {color: ;}
 
 a:active {color:  ;}
 
-
 /* In this section you can change the background color of your chat */
 #chat-window
 {
