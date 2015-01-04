@@ -22,8 +22,8 @@ width: 100%;
 }
 
 /* In this section you can change the color of the main menu bar. */
-/* Please mind that it is not possible to change the color of the icons. */
-/* You should choose a color that fits to the icon color. */
+
+/* Hint: Please mind that it is not possible to change the color of the icons. You should choose a color that fits to the icon color. */
 
 .menu { background: ; }
 
