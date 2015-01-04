@@ -7,7 +7,7 @@ This file is dedicated to normal users, if you are familiar with css please take
 ## CSS-file ##
 
 ~~~
-/* THIS IS THE CSS-FILE FOR THE AUSTRIAN-PIRATEPARTY-MODE IN LIBERTREE */
+/* THIS IS THE EXAMPLE-CSS-FILE FOR LIBERTREE */
 
 /* Hint: If you want to change the colors, you have to edit the hexadecimal */
 
