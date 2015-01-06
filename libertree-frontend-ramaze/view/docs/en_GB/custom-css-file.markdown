@@ -13,8 +13,7 @@ This file is dedicated to average users, if you are familiar with CSS please tak
 
 /* In this section you can put a picture-link in for the background and you can choose a color if you picture doesn't cover the whole area */
 
-body
-{
+body {
 padding: 0px;
 margin: 0px;
 background: url("www.please-replace-this-link.org/example-picture.png") fixed center repeat-x #000000;
@@ -25,21 +24,21 @@ width: 100%;
 
 /* Hint: Please mind that it is not possible to change the color of the icons. You should choose a color that fits to the icon color. */
 
-.menu { background: #ffffff;}
+.menu {background: #ffffff;}
 
 /* In this section you can change the menu from the upper right corner */
 
 .window {background-color: #ffffff;}
 
 /* In this section you can change the color of your username and make it bigger. */
-#menu-narrower #menu-account
-{
+
+#menu-narrower #menu-account {
 font-size: 12pt; color: #000000;
 }
 
 /* In this section you can change the color of the links */
 
-a {color: #000000; border-bottom: 1px dotted ;}
+a {color: #000000; border-bottom: 1px dotted;}
 
 a:visited {color: #000000;}
 
@@ -48,8 +47,8 @@ a:hover {color: #000000;}
 a:active {color:  #000000;}
 
 /* In this section you can change the background color of your chat */
-#chat-window
-{
+
+#chat-window {
  background-color: #ffffff;
 }
 ~~~
