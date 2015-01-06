@@ -1,8 +1,5 @@
 # Custom CSS File
-You can copy paste the code below in to your settings. Please put behind the semicolons a number in hexadecimal for the color. 
-
-## Clarification
-This file is dedicated to average users, if you are familiar with CSS please take a look at the application.scss-file for advanced changes of the Libertree interface.
+You can copy paste the code below into your settings. Please put behind the semicolons a number in hexadecimal for the color. This file is dedicated to average users, if you are familiar with CSS please take a look at the application.scss-file for advanced changes of the Libertree interface.
 
 ## CSS File
 
