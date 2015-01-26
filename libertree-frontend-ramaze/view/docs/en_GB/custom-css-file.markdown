@@ -24,8 +24,7 @@ body {
 padding: 0px;
 margin: 0px;
 background: url("www.please-replace-this-link.org/example-picture.png") fixed center repeat-x #000000;
-width: 100%;
-}
+width: 100%;}
 
 /* In this section you can change the color of the main menu bar. */
 
@@ -39,9 +38,7 @@ width: 100%;
 
 /* In this section you can change the color of your username and make it bigger. */
 
-#menu-narrower #menu-account {
-font-size: 12pt; color: #000000;
-}
+#menu-narrower #menu-account {font-size: 12pt; color: #000000;}
 
 /* In this section you can change the color of the links */
 
@@ -51,11 +48,9 @@ a:visited {color: #000000;}
 
 a:hover {color: #000000;}
 
-a:active {color:  #000000;}
+a:active {color: #000000;}
 
 /* In this section you can change the background color of your chat */
 
-#chat-window {
- background-color: #ffffff;
-}
+#chat-window {background-color: #ffffff;}
 ~~~
