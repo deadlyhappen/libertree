@@ -1,6 +1,16 @@
 # Custom CSS File
 You can copy paste the code below into your settings. Please put behind the semicolons a number in hexadecimal for the color. This file is dedicated to average users, if you are familiar with CSS please take a look at the application.scss-file for advanced changes of the Libertree interface.
 
+## Changes to the Inteface
+In this picture you can see the changes of the custom css file.
+
+![Picture with notations](link_to_the_picture)
+
+* 1.) The background is now black
+* 2.) The links are also black
+* 3.) The main menu bar is now white
+* 4.) The avatar picture is now bigger
+
 ## CSS File
 
 ~~~
